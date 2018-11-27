@@ -77,12 +77,11 @@ img {
 
 /*--- Footer ---*/
 .learn-more {
-  float: left;
+  text-align: center;
 }
 
 .sign-off {
-  display: inline-block;
-  float: right;
+  text-align: center;
 }
 
 /*--- Media Queries ---*/
